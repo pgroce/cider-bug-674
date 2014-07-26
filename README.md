@@ -1,14 +1,13 @@
 # cider-bug-674
 
-A Clojure library designed to ... well, that part is up to you.
+Demonstrates [CIDER bug 674](https://github.com/clojure-emacs/cider/issues/674).
 
 ## Usage
 
-FIXME
+Download, run in CIDER.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Phil Groce
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Released into the public domain.
